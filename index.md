@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to HAZT Pages
 
 You can use the [editor on GitHub](https://github.com/o910374155/hzt0925/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
